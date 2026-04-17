@@ -77,7 +77,7 @@ const Stats = () => {
           </PieChart>
         ) : (
           <p className="block text-center text-[20px] font-medium py-[60px]">
-            No data available yet.
+            No data available yet
           </p>
         )}
       </div>
