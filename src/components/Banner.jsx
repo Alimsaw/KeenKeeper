@@ -8,7 +8,7 @@ const Banner = ({ peopleInfo }) => {
         Friends to keep close in your life
       </h1>
 
-      <p className="text-[#6b7280] block w-[100%] max-w-[600px]">
+      <p className="text-[#6b7280] text-[18px] block w-[100%] max-w-[600px]">
         Your personal shelf of meaningful connections. Browse, tend, and nurture
         the relationships that matter most.
       </p>
