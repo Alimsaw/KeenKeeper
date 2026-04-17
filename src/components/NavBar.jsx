@@ -34,7 +34,7 @@ const NavBar = () => {
             : "opacity-0 translate-x-5 pointer-events-none"} 
           md:relative md:p-0 md:rounded-none md:shadow-none md:min-w-fit md:border-none md:top-0 md:opacity-100 md:translate-x-0 md:pointer-events-auto`}
         >
-          <ul className="w-[100%] flex flex-col md:flex-row items-center gap-[4px]">
+          <ul className="w-[100%] flex flex-col md:flex-row items-center gap-[8px]">
             <li className="block w-[100%]">
               <NavLink
                 to="/"
