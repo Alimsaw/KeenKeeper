@@ -45,7 +45,7 @@ const Stats = () => {
       </h2>
 
       <div className="w-[100%] p-[20px] lg:p-[32px] rounded-lg shadow-sm flex flex-col items-center justify-center gap-[24px] bg-[#ffffff]">
-        <label className="text-[20px] font-medium text-[#422ad5] block text-left w-[100%]">
+        <label className="text-[20px] font-medium text-[#000000] block text-left w-[100%]">
           By Interaction Type
         </label>
 
