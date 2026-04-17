@@ -27,7 +27,7 @@ const DescriptionCards = ({ infoToShow }) => {
   }
 
   return (
-    <div className="w-[100%] grid grid-cols-2 lg:grid-cols-4 gap-[12px]">
+    <div className="w-[100%] grid grid-cols-2 lg:grid-cols-4 text-[16px] gap-[12px]">
       <DescriptionCard number={totalFriends} text="Total Friends" />
       <DescriptionCard number={goodStatus} text="On Track" />
       <DescriptionCard number={needsAction} text="Need Attention" />
