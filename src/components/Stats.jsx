@@ -76,7 +76,7 @@ const Stats = () => {
             <Legend />
           </PieChart>
         ) : (
-          <p className="block text-center text-[14px] font-medium py-[60px]">
+          <p className="block text-center text-[20px] font-medium py-[60px]">
             No data available yet.
           </p>
         )}
